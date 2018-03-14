@@ -54,10 +54,7 @@
 <svg id="chart1"></svg>
 
 <script>
-d3.csv("http://monicawojciechowski.github.io/pathtoplayoff/full_data.csv", function(data) {
-
-//formating function
-//var f = function(d) {return {d3.format(".3n", d)
+d3.csv("./full_data.csv", function(data) {
 
     var rawdata = data;
     console.log(rawdata);
@@ -83,8 +80,6 @@ d3.csv("http://monicawojciechowski.github.io/pathtoplayoff/full_data.csv", funct
     var colors = d3.scale.category20();
     var chart;
     nv.addGraph(function() {
-        //var width = $(window).width(), height = $(window).height();
-        //nvD3 documentation: https://nvd3-community.github.io/nvd3/examples/documentation.html#stackedAreaChart
         chart = nv.models.stackedAreaChart() //can change to stackedAreawithFocusChart() to get the focus bar with brushing option
             .useInteractiveGuideline(true)
             .x(function(d) { return d.key })
