@@ -1,0 +1,1285 @@
+week,tm,playoff,conf,div,power5,conf_div,path,label
+1,California,0.00026,PAC12,North,1,PAC12North,1,Pac12N
+2,California,0.00044,PAC12,North,1,PAC12North,1,Pac12N
+3,California,0,PAC12,North,1,PAC12North,1,Pac12N
+4,California,0,PAC12,North,1,PAC12North,1,Pac12N
+5,California,0.00025,PAC12,North,1,PAC12North,1,Pac12N
+6,California,0,PAC12,North,1,PAC12North,1,Pac12N
+7,California,0,PAC12,North,1,PAC12North,1,Pac12N
+8,California,0,PAC12,North,1,PAC12North,1,Pac12N
+9,California,0,PAC12,North,1,PAC12North,1,Pac12N
+10,California,0,PAC12,North,1,PAC12North,1,Pac12N
+1,Oregon,0.0209,PAC12,North,1,PAC12North,1,Pac12N
+2,Oregon,0.01904,PAC12,North,1,PAC12North,1,Pac12N
+3,Oregon,0.039999999,PAC12,North,1,PAC12North,1,Pac12N
+4,Oregon,0.050000001,PAC12,North,1,PAC12North,1,Pac12N
+5,Oregon,0.01024,PAC12,North,1,PAC12North,1,Pac12N
+6,Oregon,0.018449999,PAC12,North,1,PAC12North,1,Pac12N
+7,Oregon,0.00035,PAC12,North,1,PAC12North,1,Pac12N
+8,Oregon,0,PAC12,North,1,PAC12North,1,Pac12N
+9,Oregon,0,PAC12,North,1,PAC12North,1,Pac12N
+10,Oregon,0,PAC12,North,1,PAC12North,1,Pac12N
+1,Oregon State,0.00474,PAC12,North,1,PAC12North,1,Pac12N
+2,Oregon State,0.00028,PAC12,North,1,PAC12North,1,Pac12N
+3,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+4,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+5,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+6,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+7,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+8,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+9,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+10,Oregon State,0,PAC12,North,1,PAC12North,1,Pac12N
+1,Stanford,0.10392,PAC12,North,1,PAC12North,1,Pac12N
+2,Stanford,0.19633999,PAC12,North,1,PAC12North,1,Pac12N
+3,Stanford,0.059999999,PAC12,North,1,PAC12North,1,Pac12N
+4,Stanford,0,PAC12,North,1,PAC12North,1,Pac12N
+5,Stanford,0.00414,PAC12,North,1,PAC12North,1,Pac12N
+6,Stanford,0.00216,PAC12,North,1,PAC12North,1,Pac12N
+7,Stanford,0.00333,PAC12,North,1,PAC12North,1,Pac12N
+8,Stanford,0.01141,PAC12,North,1,PAC12North,1,Pac12N
+9,Stanford,0.00629,PAC12,North,1,PAC12North,1,Pac12N
+10,Stanford,0.00244,PAC12,North,1,PAC12North,1,Pac12N
+1,Washington,0.30498001,PAC12,North,1,PAC12North,1,Pac12N
+2,Washington,0.20324001,PAC12,North,1,PAC12North,1,Pac12N
+3,Washington,0.23999999,PAC12,North,1,PAC12North,1,Pac12N
+4,Washington,0.23999999,PAC12,North,1,PAC12North,1,Pac12N
+5,Washington,0.32611001,PAC12,North,1,PAC12North,1,Pac12N
+6,Washington,0.43641001,PAC12,North,1,PAC12North,1,Pac12N
+7,Washington,0.46687999,PAC12,North,1,PAC12North,1,Pac12N
+8,Washington,0.25490999,PAC12,North,1,PAC12North,1,Pac12N
+9,Washington,0.26706001,PAC12,North,1,PAC12North,1,Pac12N
+10,Washington,0.33386001,PAC12,North,1,PAC12North,1,Pac12N
+1,Washington State,0.03734,PAC12,North,1,PAC12North,1,Pac12N
+2,Washington State,0.035379998,PAC12,North,1,PAC12North,1,Pac12N
+3,Washington State,0.02,PAC12,North,1,PAC12North,1,Pac12N
+4,Washington State,0.02,PAC12,North,1,PAC12North,1,Pac12N
+5,Washington State,0.018829999,PAC12,North,1,PAC12North,1,Pac12N
+6,Washington State,0.02396,PAC12,North,1,PAC12North,1,Pac12N
+7,Washington State,0.063929997,PAC12,North,1,PAC12North,1,Pac12N
+8,Washington State,0.01058,PAC12,North,1,PAC12North,1,Pac12N
+9,Washington State,0.017829999,PAC12,North,1,PAC12North,1,Pac12N
+10,Washington State,0.00098,PAC12,North,1,PAC12North,1,Pac12N
+1,Arizona,0.00448,PAC12,South,1,PAC12South,2,Pac12S
+2,Arizona,0.00576,PAC12,South,1,PAC12South,2,Pac12S
+3,Arizona,0,PAC12,South,1,PAC12South,2,Pac12S
+4,Arizona,0,PAC12,South,1,PAC12South,2,Pac12S
+5,Arizona,2.00E-05,PAC12,South,1,PAC12South,2,Pac12S
+6,Arizona,3.00E-05,PAC12,South,1,PAC12South,2,Pac12S
+7,Arizona,0.00017,PAC12,South,1,PAC12South,2,Pac12S
+8,Arizona,0.00055,PAC12,South,1,PAC12South,2,Pac12S
+9,Arizona,0.00061,PAC12,South,1,PAC12South,2,Pac12S
+10,Arizona,0.00023,PAC12,South,1,PAC12South,2,Pac12S
+1,Arizona State,0.00458,PAC12,South,1,PAC12South,2,Pac12S
+2,Arizona State,0.0005,PAC12,South,1,PAC12South,2,Pac12S
+3,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+4,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+5,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+6,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+7,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+8,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+9,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+10,Arizona State,0,PAC12,South,1,PAC12South,2,Pac12S
+1,Colorado,0.00778,PAC12,South,1,PAC12South,2,Pac12S
+2,Colorado,0.01152,PAC12,South,1,PAC12South,2,Pac12S
+3,Colorado,0.01,PAC12,South,1,PAC12South,2,Pac12S
+4,Colorado,0.01,PAC12,South,1,PAC12South,2,Pac12S
+5,Colorado,0.00092,PAC12,South,1,PAC12South,2,Pac12S
+6,Colorado,8.00E-05,PAC12,South,1,PAC12South,2,Pac12S
+7,Colorado,0,PAC12,South,1,PAC12South,2,Pac12S
+8,Colorado,0,PAC12,South,1,PAC12South,2,Pac12S
+9,Colorado,0,PAC12,South,1,PAC12South,2,Pac12S
+10,Colorado,0,PAC12,South,1,PAC12South,2,Pac12S
+1,UCLA,0.01086,PAC12,South,1,PAC12South,2,Pac12S
+2,UCLA,0.01014,PAC12,South,1,PAC12South,2,Pac12S
+3,UCLA,0.01,PAC12,South,1,PAC12South,2,Pac12S
+4,UCLA,0.01,PAC12,South,1,PAC12South,2,Pac12S
+5,UCLA,0.00056,PAC12,South,1,PAC12South,2,Pac12S
+6,UCLA,0.00025,PAC12,South,1,PAC12South,2,Pac12S
+7,UCLA,0.00031,PAC12,South,1,PAC12South,2,Pac12S
+8,UCLA,0,PAC12,South,1,PAC12South,2,Pac12S
+9,UCLA,0,PAC12,South,1,PAC12South,2,Pac12S
+10,UCLA,0,PAC12,South,1,PAC12South,2,Pac12S
+1,USC,0.18886,PAC12,South,1,PAC12South,2,Pac12S
+2,USC,0.1892,PAC12,South,1,PAC12South,2,Pac12S
+3,USC,0.33000001,PAC12,South,1,PAC12South,2,Pac12S
+4,USC,0.36000001,PAC12,South,1,PAC12South,2,Pac12S
+5,USC,0.29181001,PAC12,South,1,PAC12South,2,Pac12S
+6,USC,0.11449,PAC12,South,1,PAC12South,2,Pac12S
+7,USC,0.11688,PAC12,South,1,PAC12South,2,Pac12S
+8,USC,0.14121,PAC12,South,1,PAC12South,2,Pac12S
+9,USC,0.0134,PAC12,South,1,PAC12South,2,Pac12S
+10,USC,0.00111,PAC12,South,1,PAC12South,2,Pac12S
+1,Utah,0.00772,PAC12,South,1,PAC12South,2,Pac12S
+2,Utah,0.008500001,PAC12,South,1,PAC12South,2,Pac12S
+3,Utah,0.01,PAC12,South,1,PAC12South,2,Pac12S
+4,Utah,0.01,PAC12,South,1,PAC12South,2,Pac12S
+5,Utah,0.0072,PAC12,South,1,PAC12South,2,Pac12S
+6,Utah,0.00702,PAC12,South,1,PAC12South,2,Pac12S
+7,Utah,0.00175,PAC12,South,1,PAC12South,2,Pac12S
+8,Utah,0.00095,PAC12,South,1,PAC12South,2,Pac12S
+9,Utah,0,PAC12,South,1,PAC12South,2,Pac12S
+10,Utah,0,PAC12,South,1,PAC12South,2,Pac12S
+1,Baylor,0.0041,Big12,,1,Big12,3,Big12
+2,Baylor,0.00084,Big12,,1,Big12,3,Big12
+3,Baylor,0,Big12,,1,Big12,3,Big12
+4,Baylor,0,Big12,,1,Big12,3,Big12
+5,Baylor,0,Big12,,1,Big12,3,Big12
+6,Baylor,0,Big12,,1,Big12,3,Big12
+7,Baylor,0,Big12,,1,Big12,3,Big12
+8,Baylor,0,Big12,,1,Big12,3,Big12
+9,Baylor,0,Big12,,1,Big12,3,Big12
+10,Baylor,0,Big12,,1,Big12,3,Big12
+1,Iowa State,0.0032,Big12,,1,Big12,3,Big12
+2,Iowa State,0.00242,Big12,,1,Big12,3,Big12
+3,Iowa State,0,Big12,,1,Big12,3,Big12
+4,Iowa State,0,Big12,,1,Big12,3,Big12
+5,Iowa State,0.00012,Big12,,1,Big12,3,Big12
+6,Iowa State,0,Big12,,1,Big12,3,Big12
+7,Iowa State,0.00017,Big12,,1,Big12,3,Big12
+8,Iowa State,0.00045,Big12,,1,Big12,3,Big12
+9,Iowa State,0.00042,Big12,,1,Big12,3,Big12
+10,Iowa State,0.00034,Big12,,1,Big12,3,Big12
+1,Kansas,2.00E-05,Big12,,1,Big12,3,Big12
+2,Kansas,0,Big12,,1,Big12,3,Big12
+3,Kansas,0,Big12,,1,Big12,3,Big12
+4,Kansas,0,Big12,,1,Big12,3,Big12
+5,Kansas,0,Big12,,1,Big12,3,Big12
+6,Kansas,0,Big12,,1,Big12,3,Big12
+7,Kansas,0,Big12,,1,Big12,3,Big12
+8,Kansas,0,Big12,,1,Big12,3,Big12
+9,Kansas,0,Big12,,1,Big12,3,Big12
+10,Kansas,0,Big12,,1,Big12,3,Big12
+1,Kansas State,0.045880001,Big12,,1,Big12,3,Big12
+2,Kansas State,0.040380001,Big12,,1,Big12,3,Big12
+3,Kansas State,0.059999999,Big12,,1,Big12,3,Big12
+4,Kansas State,0.01,Big12,,1,Big12,3,Big12
+5,Kansas State,0.00384,Big12,,1,Big12,3,Big12
+6,Kansas State,0.00364,Big12,,1,Big12,3,Big12
+7,Kansas State,0.00017,Big12,,1,Big12,3,Big12
+8,Kansas State,0,Big12,,1,Big12,3,Big12
+9,Kansas State,0,Big12,,1,Big12,3,Big12
+10,Kansas State,0,Big12,,1,Big12,3,Big12
+1,Oklahoma,0.24254,Big12,,1,Big12,3,Big12
+2,Oklahoma,0.23648,Big12,,1,Big12,3,Big12
+3,Oklahoma,0.41999999,Big12,,1,Big12,3,Big12
+4,Oklahoma,0.52999997,Big12,,1,Big12,3,Big12
+5,Oklahoma,0.54693997,Big12,,1,Big12,3,Big12
+6,Oklahoma,0.56212002,Big12,,1,Big12,3,Big12
+7,Oklahoma,0.24484999,Big12,,1,Big12,3,Big12
+8,Oklahoma,0.28503999,Big12,,1,Big12,3,Big12
+9,Oklahoma,0.25296,Big12,,1,Big12,3,Big12
+10,Oklahoma,0.24047999,Big12,,1,Big12,3,Big12
+1,Oklahoma State,0.04236,Big12,,1,Big12,3,Big12
+2,Oklahoma State,0.10674,Big12,,1,Big12,3,Big12
+3,Oklahoma State,0.079999998,Big12,,1,Big12,3,Big12
+4,Oklahoma State,0.14,Big12,,1,Big12,3,Big12
+5,Oklahoma State,0.03283,Big12,,1,Big12,3,Big12
+6,Oklahoma State,0.043120001,Big12,,1,Big12,3,Big12
+7,Oklahoma State,0.050590001,Big12,,1,Big12,3,Big12
+8,Oklahoma State,0.099090002,Big12,,1,Big12,3,Big12
+9,Oklahoma State,0.12640999,Big12,,1,Big12,3,Big12
+10,Oklahoma State,0.13227999,Big12,,1,Big12,3,Big12
+1,TCU,0.056060001,Big12,,1,Big12,3,Big12
+2,TCU,0.063299999,Big12,,1,Big12,3,Big12
+3,TCU,0.1,Big12,,1,Big12,3,Big12
+4,TCU,0.079999998,Big12,,1,Big12,3,Big12
+5,TCU,0.15991999,Big12,,1,Big12,3,Big12
+6,TCU,0.16151001,Big12,,1,Big12,3,Big12
+7,TCU,0.14689,Big12,,1,Big12,3,Big12
+8,TCU,0.27779999,Big12,,1,Big12,3,Big12
+9,TCU,0.30711001,Big12,,1,Big12,3,Big12
+10,TCU,0.12161,Big12,,1,Big12,3,Big12
+1,Texas,0.075719997,Big12,,1,Big12,3,Big12
+2,Texas,0.0055,Big12,,1,Big12,3,Big12
+3,Texas,0.01,Big12,,1,Big12,3,Big12
+4,Texas,0,Big12,,1,Big12,3,Big12
+5,Texas,0.00043,Big12,,1,Big12,3,Big12
+6,Texas,0.00031,Big12,,1,Big12,3,Big12
+7,Texas,0.00084,Big12,,1,Big12,3,Big12
+8,Texas,0,Big12,,1,Big12,3,Big12
+9,Texas,0,Big12,,1,Big12,3,Big12
+10,Texas,0,Big12,,1,Big12,3,Big12
+1,Texas Tech,0.00048,Big12,,1,Big12,3,Big12
+2,Texas Tech,0.00154,Big12,,1,Big12,3,Big12
+3,Texas Tech,0,Big12,,1,Big12,3,Big12
+4,Texas Tech,0,Big12,,1,Big12,3,Big12
+5,Texas Tech,0.00094,Big12,,1,Big12,3,Big12
+6,Texas Tech,2.00E-05,Big12,,1,Big12,3,Big12
+7,Texas Tech,0.00039,Big12,,1,Big12,3,Big12
+8,Texas Tech,1.00E-04,Big12,,1,Big12,3,Big12
+9,Texas Tech,0,Big12,,1,Big12,3,Big12
+10,Texas Tech,0,Big12,,1,Big12,3,Big12
+1,West Virginia,0.00318,Big12,,1,Big12,3,Big12
+2,West Virginia,0.00108,Big12,,1,Big12,3,Big12
+3,West Virginia,0,Big12,,1,Big12,3,Big12
+4,West Virginia,0,Big12,,1,Big12,3,Big12
+5,West Virginia,0.00057,Big12,,1,Big12,3,Big12
+6,West Virginia,0.00081,Big12,,1,Big12,3,Big12
+7,West Virginia,0.0001,Big12,,1,Big12,3,Big12
+8,West Virginia,0.00029,Big12,,1,Big12,3,Big12
+9,West Virginia,1.00E-04,Big12,,1,Big12,3,Big12
+10,West Virginia,0,Big12,,1,Big12,3,Big12
+1,Indiana,0.00294,Big10,East,1,Big10East,4,Big10E
+2,Indiana,0.00028,Big10,East,1,Big10East,4,Big10E
+3,Indiana,0,Big10,East,1,Big10East,4,Big10E
+4,Indiana,0,Big10,East,1,Big10East,4,Big10E
+5,Indiana,0.00046,Big10,East,1,Big10East,4,Big10E
+6,Indiana,9.00E-05,Big10,East,1,Big10East,4,Big10E
+7,Indiana,8.00E-05,Big10,East,1,Big10East,4,Big10E
+8,Indiana,0,Big10,East,1,Big10East,4,Big10E
+9,Indiana,0,Big10,East,1,Big10East,4,Big10E
+10,Indiana,0,Big10,East,1,Big10East,4,Big10E
+1,Maryland,0.00034,Big10,East,1,Big10East,4,Big10E
+2,Maryland,0.00154,Big10,East,1,Big10East,4,Big10E
+3,Maryland,0,Big10,East,1,Big10East,4,Big10E
+4,Maryland,0,Big10,East,1,Big10East,4,Big10E
+5,Maryland,2.00E-05,Big10,East,1,Big10East,4,Big10E
+6,Maryland,0.00013,Big10,East,1,Big10East,4,Big10E
+7,Maryland,1.00E-05,Big10,East,1,Big10East,4,Big10E
+8,Maryland,0,Big10,East,1,Big10East,4,Big10E
+9,Maryland,0,Big10,East,1,Big10East,4,Big10E
+10,Maryland,0,Big10,East,1,Big10East,4,Big10E
+1,Michigan,0.11392,Big10,East,1,Big10East,4,Big10E
+2,Michigan,0.12194,Big10,East,1,Big10East,4,Big10E
+3,Michigan,0.11,Big10,East,1,Big10East,4,Big10E
+4,Michigan,0.059999999,Big10,East,1,Big10East,4,Big10E
+5,Michigan,0.067709997,Big10,East,1,Big10East,4,Big10E
+6,Michigan,0.04848,Big10,East,1,Big10East,4,Big10E
+7,Michigan,0.00904,Big10,East,1,Big10East,4,Big10E
+8,Michigan,0.01463,Big10,East,1,Big10East,4,Big10E
+9,Michigan,0.0016,Big10,East,1,Big10East,4,Big10E
+10,Michigan,1.00E-05,Big10,East,1,Big10East,4,Big10E
+1,Michigan State,0.00294,Big10,East,1,Big10East,4,Big10E
+2,Michigan State,0.00502,Big10,East,1,Big10East,4,Big10E
+3,Michigan State,0.01,Big10,East,1,Big10East,4,Big10E
+4,Michigan State,0,Big10,East,1,Big10East,4,Big10E
+5,Michigan State,0.00023,Big10,East,1,Big10East,4,Big10E
+6,Michigan State,1.00E-04,Big10,East,1,Big10East,4,Big10E
+7,Michigan State,0.00115,Big10,East,1,Big10East,4,Big10E
+8,Michigan State,0.00385,Big10,East,1,Big10East,4,Big10E
+9,Michigan State,0.00184,Big10,East,1,Big10East,4,Big10E
+10,Michigan State,5.00E-05,Big10,East,1,Big10East,4,Big10E
+1,Ohio State,0.57396001,Big10,East,1,Big10East,4,Big10E
+2,Ohio State,0.62,Big10,East,1,Big10East,4,Big10E
+3,Ohio State,0.28,Big10,East,1,Big10East,4,Big10E
+4,Ohio State,0.38,Big10,East,1,Big10East,4,Big10E
+5,Ohio State,0.33787999,Big10,East,1,Big10East,4,Big10E
+6,Ohio State,0.41199002,Big10,East,1,Big10East,4,Big10E
+7,Ohio State,0.48427999,Big10,East,1,Big10East,4,Big10E
+8,Ohio State,0.57497001,Big10,East,1,Big10East,4,Big10E
+9,Ohio State,0.54036003,Big10,East,1,Big10East,4,Big10E
+10,Ohio State,0.60996002,Big10,East,1,Big10East,4,Big10E
+1,Penn State,0.12332,Big10,East,1,Big10East,4,Big10E
+2,Penn State,0.15642001,Big10,East,1,Big10East,4,Big10E
+3,Penn State,0.18000001,Big10,East,1,Big10East,4,Big10E
+4,Penn State,0.15000001,Big10,East,1,Big10East,4,Big10E
+5,Penn State,0.17311001,Big10,East,1,Big10East,4,Big10E
+6,Penn State,0.14291,Big10,East,1,Big10East,4,Big10E
+7,Penn State,0.18111999,Big10,East,1,Big10East,4,Big10E
+8,Penn State,0.25112998,Big10,East,1,Big10East,4,Big10E
+9,Penn State,0.26236999,Big10,East,1,Big10East,4,Big10E
+10,Penn State,0.061149999,Big10,East,1,Big10East,4,Big10E
+1,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+2,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+3,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+4,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+5,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+6,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+7,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+8,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+9,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+10,Rutgers,0,Big10,East,1,Big10East,4,Big10E
+1,Illinois,6.00E-05,Big10,West,1,Big10West,5,Big10W
+2,Illinois,0,Big10,West,1,Big10West,5,Big10W
+3,Illinois,0,Big10,West,1,Big10West,5,Big10W
+4,Illinois,0,Big10,West,1,Big10West,5,Big10W
+5,Illinois,0,Big10,West,1,Big10West,5,Big10W
+6,Illinois,0,Big10,West,1,Big10West,5,Big10W
+7,Illinois,0,Big10,West,1,Big10West,5,Big10W
+8,Illinois,0,Big10,West,1,Big10West,5,Big10W
+9,Illinois,0,Big10,West,1,Big10West,5,Big10W
+10,Illinois,0,Big10,West,1,Big10West,5,Big10W
+1,Iowa,0.018340001,Big10,West,1,Big10West,5,Big10W
+2,Iowa,0.00962,Big10,West,1,Big10West,5,Big10W
+3,Iowa,0.02,Big10,West,1,Big10West,5,Big10W
+4,Iowa,0,Big10,West,1,Big10West,5,Big10W
+5,Iowa,0.00061,Big10,West,1,Big10West,5,Big10W
+6,Iowa,7.00E-05,Big10,West,1,Big10West,5,Big10W
+7,Iowa,5.00E-05,Big10,West,1,Big10West,5,Big10W
+8,Iowa,0.00012,Big10,West,1,Big10West,5,Big10W
+9,Iowa,0,Big10,West,1,Big10West,5,Big10W
+10,Iowa,0,Big10,West,1,Big10West,5,Big10W
+1,Minnesota,0.00872,Big10,West,1,Big10West,5,Big10W
+2,Minnesota,0.00512,Big10,West,1,Big10West,5,Big10W
+3,Minnesota,0.029999999,Big10,West,1,Big10West,5,Big10W
+4,Minnesota,0.02,Big10,West,1,Big10West,5,Big10W
+5,Minnesota,0.020710001,Big10,West,1,Big10West,5,Big10W
+6,Minnesota,0.00206,Big10,West,1,Big10West,5,Big10W
+7,Minnesota,2.00E-05,Big10,West,1,Big10West,5,Big10W
+8,Minnesota,0,Big10,West,1,Big10West,5,Big10W
+9,Minnesota,0,Big10,West,1,Big10West,5,Big10W
+10,Minnesota,0,Big10,West,1,Big10West,5,Big10W
+1,Nebraska,0.00252,Big10,West,1,Big10West,5,Big10W
+2,Nebraska,0.00134,Big10,West,1,Big10West,5,Big10W
+3,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+4,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+5,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+6,Nebraska,4.00E-05,Big10,West,1,Big10West,5,Big10W
+7,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+8,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+9,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+10,Nebraska,0,Big10,West,1,Big10West,5,Big10W
+1,Northwestern,0.02816,Big10,West,1,Big10West,5,Big10W
+2,Northwestern,0.00768,Big10,West,1,Big10West,5,Big10W
+3,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+4,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+5,Northwestern,0.00229,Big10,West,1,Big10West,5,Big10W
+6,Northwestern,0.00026,Big10,West,1,Big10West,5,Big10W
+7,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+8,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+9,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+10,Northwestern,0,Big10,West,1,Big10West,5,Big10W
+1,Purdue,0,Big10,West,1,Big10West,5,Big10W
+2,Purdue,0,Big10,West,1,Big10West,5,Big10W
+3,Purdue,0,Big10,West,1,Big10West,5,Big10W
+4,Purdue,0,Big10,West,1,Big10West,5,Big10W
+5,Purdue,0,Big10,West,1,Big10West,5,Big10W
+6,Purdue,1.00E-05,Big10,West,1,Big10West,5,Big10W
+7,Purdue,5.00E-05,Big10,West,1,Big10West,5,Big10W
+8,Purdue,0,Big10,West,1,Big10West,5,Big10W
+9,Purdue,0,Big10,West,1,Big10West,5,Big10W
+10,Purdue,0,Big10,West,1,Big10West,5,Big10W
+1,Wisconsin,0.15398,Big10,West,1,Big10West,5,Big10W
+2,Wisconsin,0.1665,Big10,West,1,Big10West,5,Big10W
+3,Wisconsin,0.17,Big10,West,1,Big10West,5,Big10W
+4,Wisconsin,0.20999999,Big10,West,1,Big10West,5,Big10W
+5,Wisconsin,0.24387001,Big10,West,1,Big10West,5,Big10W
+6,Wisconsin,0.21957999,Big10,West,1,Big10West,5,Big10W
+7,Wisconsin,0.25195,Big10,West,1,Big10West,5,Big10W
+8,Wisconsin,0.25303,Big10,West,1,Big10West,5,Big10W
+9,Wisconsin,0.25960001,Big10,West,1,Big10West,5,Big10W
+10,Wisconsin,0.21074,Big10,West,1,Big10West,5,Big10W
+1,Boston College,0.00076,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Boston College,0.00012,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Boston College,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Clemson,0.19840001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Clemson,0.32730001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Clemson,0.37,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Clemson,0.5,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Clemson,0.49360001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Clemson,0.54887003,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Clemson,0.56212997,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Clemson,0.28836,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Clemson,0.30371001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Clemson,0.35653001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Florida State,0.24116001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Florida State,0.13546,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Florida State,0.090000004,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Florida State,0.16,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Florida State,0.00572,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Florida State,0.00402,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Florida State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Florida State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Florida State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Florida State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Louisville,0.1323,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Louisville,0.076059997,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Louisville,0.13,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Louisville,0.029999999,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Louisville,0.017750001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Louisville,0.01377,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Louisville,0.00222,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Louisville,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Louisville,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Louisville,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,North Carolina State,0.0296,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,North Carolina State,0.00648,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,North Carolina State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,North Carolina State,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,North Carolina State,0.01274,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,North Carolina State,0.00894,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,North Carolina State,0.018510001,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,North Carolina State,0.041019998,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,North Carolina State,0.03098,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,North Carolina State,0.00254,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Syracuse,0.00064,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Syracuse,0.00054,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Syracuse,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Wake Forest,0.0013,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+2,Wake Forest,0.0008,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+3,Wake Forest,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+4,Wake Forest,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+5,Wake Forest,0.00147,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+6,Wake Forest,0.00052,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+7,Wake Forest,0.00018,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+8,Wake Forest,0.00034,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+9,Wake Forest,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+10,Wake Forest,0,ACC,Atlantic,1,ACCAtlantic,6,ACC-A
+1,Duke,0.0021,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Duke,0.0047,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Duke,0.02,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Duke,0.01,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Duke,0.02008,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Duke,0.00184,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Duke,0.00015,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Duke,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Duke,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Duke,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Georgia Tech,0.01116,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Georgia Tech,0.00496,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Georgia Tech,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Georgia Tech,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Georgia Tech,0.00237,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Georgia Tech,0.00234,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Georgia Tech,0.00387,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Georgia Tech,0.00126,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Georgia Tech,0.00074,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Georgia Tech,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Miami (FL),0.068319999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Miami (FL),0.05604,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Miami (FL),0.059999999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Miami (FL),0.079999998,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Miami (FL),0.14466,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Miami (FL),0.17618999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Miami (FL),0.25209999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Miami (FL),0.31885001,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Miami (FL),0.24814001,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Miami (FL),0.12739,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,North Carolina,0.01034,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,North Carolina,0.00058,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,North Carolina,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Pittsburgh,0.0083,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Pittsburgh,0.00646,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Pittsburgh,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Virginia,0.00114,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Virginia,0.0025,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Virginia,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Virginia,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Virginia,0.00037,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Virginia,0.00036,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Virginia,0.00061,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Virginia,0.00262,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Virginia,2.00E-05,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Virginia,0,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Virginia Tech,0.0601,ACC,Coastal,1,ACCCoastal,7,ACC-C
+2,Virginia Tech,0.061799999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+3,Virginia Tech,0.079999998,ACC,Coastal,1,ACCCoastal,7,ACC-C
+4,Virginia Tech,0.090000004,ACC,Coastal,1,ACCCoastal,7,ACC-C
+5,Virginia Tech,0.093050003,ACC,Coastal,1,ACCCoastal,7,ACC-C
+6,Virginia Tech,0.035610002,ACC,Coastal,1,ACCCoastal,7,ACC-C
+7,Virginia Tech,0.034949999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+8,Virginia Tech,0.053169999,ACC,Coastal,1,ACCCoastal,7,ACC-C
+9,Virginia Tech,0.091969997,ACC,Coastal,1,ACCCoastal,7,ACC-C
+10,Virginia Tech,0.09443,ACC,Coastal,1,ACCCoastal,7,ACC-C
+1,Florida,0.030400001,SEC,East,1,SECEast,8,SEC-E
+2,Florida,0.00392,SEC,East,1,SECEast,8,SEC-E
+3,Florida,0,SEC,East,1,SECEast,8,SEC-E
+4,Florida,0.01,SEC,East,1,SECEast,8,SEC-E
+5,Florida,0.00673,SEC,East,1,SECEast,8,SEC-E
+6,Florida,0.00636,SEC,East,1,SECEast,8,SEC-E
+7,Florida,0.00047,SEC,East,1,SECEast,8,SEC-E
+8,Florida,0,SEC,East,1,SECEast,8,SEC-E
+9,Florida,0,SEC,East,1,SECEast,8,SEC-E
+10,Florida,0,SEC,East,1,SECEast,8,SEC-E
+1,Georgia,0.03802,SEC,East,1,SECEast,8,SEC-E
+2,Georgia,0.030619999,SEC,East,1,SECEast,8,SEC-E
+3,Georgia,0.079999998,SEC,East,1,SECEast,8,SEC-E
+4,Georgia,0.059999999,SEC,East,1,SECEast,8,SEC-E
+5,Georgia,0.11212,SEC,East,1,SECEast,8,SEC-E
+6,Georgia,0.14669999,SEC,East,1,SECEast,8,SEC-E
+7,Georgia,0.22124,SEC,East,1,SECEast,8,SEC-E
+8,Georgia,0.22573,SEC,East,1,SECEast,8,SEC-E
+9,Georgia,0.21058001,SEC,East,1,SECEast,8,SEC-E
+10,Georgia,0.59767002,SEC,East,1,SECEast,8,SEC-E
+1,Kentucky,0.00766,SEC,East,1,SECEast,8,SEC-E
+2,Kentucky,0.00462,SEC,East,1,SECEast,8,SEC-E
+3,Kentucky,0.01,SEC,East,1,SECEast,8,SEC-E
+4,Kentucky,0,SEC,East,1,SECEast,8,SEC-E
+5,Kentucky,0.00162,SEC,East,1,SECEast,8,SEC-E
+6,Kentucky,0.00042,SEC,East,1,SECEast,8,SEC-E
+7,Kentucky,0.00021,SEC,East,1,SECEast,8,SEC-E
+8,Kentucky,0.00061,SEC,East,1,SECEast,8,SEC-E
+9,Kentucky,1.00E-05,SEC,East,1,SECEast,8,SEC-E
+10,Kentucky,0,SEC,East,1,SECEast,8,SEC-E
+1,Missouri,0.00204,SEC,East,1,SECEast,8,SEC-E
+2,Missouri,0.00354,SEC,East,1,SECEast,8,SEC-E
+3,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+4,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+5,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+6,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+7,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+8,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+9,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+10,Missouri,0,SEC,East,1,SECEast,8,SEC-E
+1,South Carolina,0.00232,SEC,East,1,SECEast,8,SEC-E
+2,South Carolina,0.00106,SEC,East,1,SECEast,8,SEC-E
+3,South Carolina,0.01,SEC,East,1,SECEast,8,SEC-E
+4,South Carolina,0,SEC,East,1,SECEast,8,SEC-E
+5,South Carolina,0.00028,SEC,East,1,SECEast,8,SEC-E
+6,South Carolina,2.00E-05,SEC,East,1,SECEast,8,SEC-E
+7,South Carolina,3.00E-05,SEC,East,1,SECEast,8,SEC-E
+8,South Carolina,0.00028,SEC,East,1,SECEast,8,SEC-E
+9,South Carolina,4.00E-05,SEC,East,1,SECEast,8,SEC-E
+10,South Carolina,1.00E-05,SEC,East,1,SECEast,8,SEC-E
+1,Tennessee,0.025560001,SEC,East,1,SECEast,8,SEC-E
+2,Tennessee,0.01312,SEC,East,1,SECEast,8,SEC-E
+3,Tennessee,0.02,SEC,East,1,SECEast,8,SEC-E
+4,Tennessee,0.01,SEC,East,1,SECEast,8,SEC-E
+5,Tennessee,0.0014,SEC,East,1,SECEast,8,SEC-E
+6,Tennessee,4.00E-05,SEC,East,1,SECEast,8,SEC-E
+7,Tennessee,1.00E-05,SEC,East,1,SECEast,8,SEC-E
+8,Tennessee,0,SEC,East,1,SECEast,8,SEC-E
+9,Tennessee,0,SEC,East,1,SECEast,8,SEC-E
+10,Tennessee,0,SEC,East,1,SECEast,8,SEC-E
+1,Vanderbilt,0.00148,SEC,East,1,SECEast,8,SEC-E
+2,Vanderbilt,0.00308,SEC,East,1,SECEast,8,SEC-E
+3,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+4,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+5,Vanderbilt,0.00031,SEC,East,1,SECEast,8,SEC-E
+6,Vanderbilt,6.00E-05,SEC,East,1,SECEast,8,SEC-E
+7,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+8,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+9,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+10,Vanderbilt,0,SEC,East,1,SECEast,8,SEC-E
+1,Alabama,0.59004003,SEC,West,1,SECWest,9,SEC-W
+2,Alabama,0.65417999,SEC,West,1,SECWest,9,SEC-W
+3,Alabama,0.67000002,SEC,West,1,SECWest,9,SEC-W
+4,Alabama,0.57999998,SEC,West,1,SECWest,9,SEC-W
+5,Alabama,0.71265,SEC,West,1,SECWest,9,SEC-W
+6,Alabama,0.73787999,SEC,West,1,SECWest,9,SEC-W
+7,Alabama,0.71564001,SEC,West,1,SECWest,9,SEC-W
+8,Alabama,0.80583,SEC,West,1,SECWest,9,SEC-W
+9,Alabama,0.75955999,SEC,West,1,SECWest,9,SEC-W
+10,Alabama,0.87401998,SEC,West,1,SECWest,9,SEC-W
+1,Arkansas,0.0065,SEC,West,1,SECWest,9,SEC-W
+2,Arkansas,0.00402,SEC,West,1,SECWest,9,SEC-W
+3,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+4,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+5,Arkansas,5.00E-05,SEC,West,1,SECWest,9,SEC-W
+6,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+7,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+8,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+9,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+10,Arkansas,0,SEC,West,1,SECWest,9,SEC-W
+1,Auburn,0.12751999,SEC,West,1,SECWest,9,SEC-W
+2,Auburn,0.085539997,SEC,West,1,SECWest,9,SEC-W
+3,Auburn,0.02,SEC,West,1,SECWest,9,SEC-W
+4,Auburn,0.050000001,SEC,West,1,SECWest,9,SEC-W
+5,Auburn,0.040460002,SEC,West,1,SECWest,9,SEC-W
+6,Auburn,0.054299999,SEC,West,1,SECWest,9,SEC-W
+7,Auburn,0.054889999,SEC,West,1,SECWest,9,SEC-W
+8,Auburn,0.00748,SEC,West,1,SECWest,9,SEC-W
+9,Auburn,0.0064,SEC,West,1,SECWest,9,SEC-W
+10,Auburn,0.032850001,SEC,West,1,SECWest,9,SEC-W
+1,LSU,0.065980002,SEC,West,1,SECWest,9,SEC-W
+2,LSU,0.15782,SEC,West,1,SECWest,9,SEC-W
+3,LSU,0.2,SEC,West,1,SECWest,9,SEC-W
+4,LSU,0.029999999,SEC,West,1,SECWest,9,SEC-W
+5,LSU,0.01004,SEC,West,1,SECWest,9,SEC-W
+6,LSU,0.00027,SEC,West,1,SECWest,9,SEC-W
+7,LSU,0.00045,SEC,West,1,SECWest,9,SEC-W
+8,LSU,0.00115,SEC,West,1,SECWest,9,SEC-W
+9,LSU,0.00148,SEC,West,1,SECWest,9,SEC-W
+10,LSU,0.00159,SEC,West,1,SECWest,9,SEC-W
+1,Mississippi State,0.00514,SEC,West,1,SECWest,9,SEC-W
+2,Mississippi State,0.00524,SEC,West,1,SECWest,9,SEC-W
+3,Mississippi State,0.01,SEC,West,1,SECWest,9,SEC-W
+4,Mississippi State,0.050000001,SEC,West,1,SECWest,9,SEC-W
+5,Mississippi State,0.00494,SEC,West,1,SECWest,9,SEC-W
+6,Mississippi State,0.00017,SEC,West,1,SECWest,9,SEC-W
+7,Mississippi State,0.00034,SEC,West,1,SECWest,9,SEC-W
+8,Mississippi State,0.00104,SEC,West,1,SECWest,9,SEC-W
+9,Mississippi State,0.00096,SEC,West,1,SECWest,9,SEC-W
+10,Mississippi State,0.00053,SEC,West,1,SECWest,9,SEC-W
+1,Ole Miss,0.00374,SEC,West,1,SECWest,9,SEC-W
+2,Ole Miss,0.00154,SEC,West,1,SECWest,9,SEC-W
+3,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+4,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+5,Ole Miss,0.00028,SEC,West,1,SECWest,9,SEC-W
+6,Ole Miss,1.00E-05,SEC,West,1,SECWest,9,SEC-W
+7,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+8,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+9,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+10,Ole Miss,0,SEC,West,1,SECWest,9,SEC-W
+1,Texas A&M,0.01644,SEC,West,1,SECWest,9,SEC-W
+2,Texas A&M,0.00382,SEC,West,1,SECWest,9,SEC-W
+3,Texas A&M,0,SEC,West,1,SECWest,9,SEC-W
+4,Texas A&M,0,SEC,West,1,SECWest,9,SEC-W
+5,Texas A&M,0.00288,SEC,West,1,SECWest,9,SEC-W
+6,Texas A&M,0.00224,SEC,West,1,SECWest,9,SEC-W
+7,Texas A&M,0.00078,SEC,West,1,SECWest,9,SEC-W
+8,Texas A&M,0.0018,SEC,West,1,SECWest,9,SEC-W
+9,Texas A&M,0.0006,SEC,West,1,SECWest,9,SEC-W
+10,Texas A&M,0,SEC,West,1,SECWest,9,SEC-W
+1,Army,0.00042,Independent,,0,Independent,10,Ind
+2,Army,0.0002,Independent,,0,Independent,10,Ind
+3,Army,0,Independent,,0,Independent,10,Ind
+4,Army,0,Independent,,0,Independent,10,Ind
+5,Army,0,Independent,,0,Independent,10,Ind
+6,Army,0,Independent,,0,Independent,10,Ind
+7,Army,0,Independent,,0,Independent,10,Ind
+8,Army,0,Independent,,0,Independent,10,Ind
+9,Army,0,Independent,,0,Independent,10,Ind
+10,Army,0,Independent,,0,Independent,10,Ind
+1,Brigham Young,0.00368,Independent,,0,Independent,10,Ind
+2,Brigham Young,0,Independent,,0,Independent,10,Ind
+3,Brigham Young,0,Independent,,0,Independent,10,Ind
+4,Brigham Young,0,Independent,,0,Independent,10,Ind
+5,Brigham Young,0,Independent,,0,Independent,10,Ind
+6,Brigham Young,0,Independent,,0,Independent,10,Ind
+7,Brigham Young,0,Independent,,0,Independent,10,Ind
+8,Brigham Young,0,Independent,,0,Independent,10,Ind
+9,Brigham Young,0,Independent,,0,Independent,10,Ind
+10,Brigham Young,0,Independent,,0,Independent,10,Ind
+1,Massachusetts,0,Independent,,0,Independent,10,Ind
+2,Massachusetts,0,Independent,,0,Independent,10,Ind
+3,Massachusetts,0,Independent,,0,Independent,10,Ind
+4,Massachusetts,0,Independent,,0,Independent,10,Ind
+5,Massachusetts,0,Independent,,0,Independent,10,Ind
+6,Massachusetts,0,Independent,,0,Independent,10,Ind
+7,Massachusetts,0,Independent,,0,Independent,10,Ind
+8,Massachusetts,0,Independent,,0,Independent,10,Ind
+9,Massachusetts,0,Independent,,0,Independent,10,Ind
+10,Massachusetts,0,Independent,,0,Independent,10,Ind
+1,Notre Dame,0.05274,Independent,,1,Independent,10,Ind
+2,Notre Dame,0.064219996,Independent,,1,Independent,10,Ind
+3,Notre Dame,0.01,Independent,,1,Independent,10,Ind
+4,Notre Dame,0.01,Independent,,1,Independent,10,Ind
+5,Notre Dame,0.01076,Independent,,1,Independent,10,Ind
+6,Notre Dame,0.01026,Independent,,1,Independent,10,Ind
+7,Notre Dame,0.018069999,Independent,,1,Independent,10,Ind
+8,Notre Dame,0.03435,Independent,,1,Independent,10,Ind
+9,Notre Dame,0.16576,Independent,,1,Independent,10,Ind
+10,Notre Dame,0.13053,Independent,,1,Independent,10,Ind
+1,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,Air Force,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+1,Akron,0,MAC,East,0,MACEast,11,G5
+2,Akron,0,MAC,East,0,MACEast,11,G5
+3,Akron,0,MAC,East,0,MACEast,11,G5
+4,Akron,0,MAC,East,0,MACEast,11,G5
+5,Akron,0,MAC,East,0,MACEast,11,G5
+6,Akron,0,MAC,East,0,MACEast,11,G5
+7,Akron,0,MAC,East,0,MACEast,11,G5
+8,Akron,0,MAC,East,0,MACEast,11,G5
+9,Akron,0,MAC,East,0,MACEast,11,G5
+10,Akron,0,MAC,East,0,MACEast,11,G5
+1,Appalachian State,0.0012,Sun Belt,,0,Sun Belt,11,G5
+2,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+3,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+4,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+5,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+6,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+7,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+8,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+9,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+10,Appalachian State,0,Sun Belt,,0,Sun Belt,11,G5
+1,Arkansas State,0.00026,Sun Belt,,0,Sun Belt,11,G5
+2,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+3,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+4,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+5,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+6,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+7,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+8,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+9,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+10,Arkansas State,0,Sun Belt,,0,Sun Belt,11,G5
+1,Ball State,0,MAC,West,0,MACWest,11,G5
+2,Ball State,0,MAC,West,0,MACWest,11,G5
+3,Ball State,0,MAC,West,0,MACWest,11,G5
+4,Ball State,0,MAC,West,0,MACWest,11,G5
+5,Ball State,0,MAC,West,0,MACWest,11,G5
+6,Ball State,0,MAC,West,0,MACWest,11,G5
+7,Ball State,0,MAC,West,0,MACWest,11,G5
+8,Ball State,0,MAC,West,0,MACWest,11,G5
+9,Ball State,0,MAC,West,0,MACWest,11,G5
+10,Ball State,0,MAC,West,0,MACWest,11,G5
+1,Boise State,0.00158,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,Boise State,0.00186,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,Boise State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+1,Bowling Green,0,MAC,East,0,MACEast,11,G5
+2,Bowling Green,0,MAC,East,0,MACEast,11,G5
+3,Bowling Green,0,MAC,East,0,MACEast,11,G5
+4,Bowling Green,0,MAC,East,0,MACEast,11,G5
+5,Bowling Green,0,MAC,East,0,MACEast,11,G5
+6,Bowling Green,0,MAC,East,0,MACEast,11,G5
+7,Bowling Green,0,MAC,East,0,MACEast,11,G5
+8,Bowling Green,0,MAC,East,0,MACEast,11,G5
+9,Bowling Green,0,MAC,East,0,MACEast,11,G5
+10,Bowling Green,0,MAC,East,0,MACEast,11,G5
+1,Buffalo,0,MAC,East,0,MACEast,11,G5
+2,Buffalo,0,MAC,East,0,MACEast,11,G5
+3,Buffalo,0,MAC,East,0,MACEast,11,G5
+4,Buffalo,0,MAC,East,0,MACEast,11,G5
+5,Buffalo,0,MAC,East,0,MACEast,11,G5
+6,Buffalo,0,MAC,East,0,MACEast,11,G5
+7,Buffalo,0,MAC,East,0,MACEast,11,G5
+8,Buffalo,0,MAC,East,0,MACEast,11,G5
+9,Buffalo,0,MAC,East,0,MACEast,11,G5
+10,Buffalo,0,MAC,East,0,MACEast,11,G5
+1,Central Michigan,0,MAC,West,0,MACWest,11,G5
+2,Central Michigan,0,MAC,West,0,MACWest,11,G5
+3,Central Michigan,0,MAC,West,0,MACWest,11,G5
+4,Central Michigan,0,MAC,West,0,MACWest,11,G5
+5,Central Michigan,0,MAC,West,0,MACWest,11,G5
+6,Central Michigan,0,MAC,West,0,MACWest,11,G5
+7,Central Michigan,0,MAC,West,0,MACWest,11,G5
+8,Central Michigan,0,MAC,West,0,MACWest,11,G5
+9,Central Michigan,0,MAC,West,0,MACWest,11,G5
+10,Central Michigan,0,MAC,West,0,MACWest,11,G5
+1,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+2,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+3,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+4,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+5,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+6,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+7,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+8,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+9,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+10,Charlotte,0,CUSA,East,0,CUSAEast,11,G5
+1,Cincinnati,4.00E-05,AAC,East,0,AACEast,11,G5
+2,Cincinnati,0,AAC,East,0,AACEast,11,G5
+3,Cincinnati,0,AAC,East,0,AACEast,11,G5
+4,Cincinnati,0,AAC,East,0,AACEast,11,G5
+5,Cincinnati,0,AAC,East,0,AACEast,11,G5
+6,Cincinnati,0,AAC,East,0,AACEast,11,G5
+7,Cincinnati,0,AAC,East,0,AACEast,11,G5
+8,Cincinnati,0,AAC,East,0,AACEast,11,G5
+9,Cincinnati,0,AAC,East,0,AACEast,11,G5
+10,Cincinnati,0,AAC,East,0,AACEast,11,G5
+1,Coastal Carolina,0,Sun Belt,,0,Sun Belt,11,G5
+2,Coastal Carolina,0,Sun Belt,,0,Sun Belt,11,G5
+1,Colorado State,0.0006,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,Colorado State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+1,Connecticut,0,AAC,East,0,AACEast,11,G5
+2,Connecticut,0,AAC,East,0,AACEast,11,G5
+3,Connecticut,0,AAC,East,0,AACEast,11,G5
+4,Connecticut,0,AAC,East,0,AACEast,11,G5
+5,Connecticut,0,AAC,East,0,AACEast,11,G5
+6,Connecticut,0,AAC,East,0,AACEast,11,G5
+7,Connecticut,0,AAC,East,0,AACEast,11,G5
+8,Connecticut,0,AAC,East,0,AACEast,11,G5
+9,Connecticut,0,AAC,East,0,AACEast,11,G5
+10,Connecticut,0,AAC,East,0,AACEast,11,G5
+1,East Carolina,0,AAC,East,0,AACEast,11,G5
+2,East Carolina,0,AAC,East,0,AACEast,11,G5
+3,East Carolina,0,AAC,East,0,AACEast,11,G5
+4,East Carolina,0,AAC,East,0,AACEast,11,G5
+5,East Carolina,0,AAC,East,0,AACEast,11,G5
+6,East Carolina,0,AAC,East,0,AACEast,11,G5
+7,East Carolina,0,AAC,East,0,AACEast,11,G5
+8,East Carolina,0,AAC,East,0,AACEast,11,G5
+9,East Carolina,0,AAC,East,0,AACEast,11,G5
+10,East Carolina,0,AAC,East,0,AACEast,11,G5
+1,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+2,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+3,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+4,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+5,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+6,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+7,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+8,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+9,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+10,Eastern Michigan,0,MAC,West,0,MACWest,11,G5
+1,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+2,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+3,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+4,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+5,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+6,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+7,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+8,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+9,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+10,Florida Atlantic,0,CUSA,East,0,CUSAEast,11,G5
+1,Florida International,2.00E-05,CUSA,East,0,CUSAEast,11,G5
+2,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+3,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+4,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+5,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+6,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+7,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+8,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+9,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+10,Florida International,0,CUSA,East,0,CUSAEast,11,G5
+1,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+2,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+3,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+4,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+5,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+6,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+7,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+8,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,Fresno State,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+2,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+3,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+4,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+5,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+6,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+7,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+8,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+9,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+10,Georgia Southern,0,Sun Belt,,0,Sun Belt,11,G5
+1,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+2,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+3,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+4,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+5,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+6,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+7,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+8,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+9,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+10,Georgia State,0,Sun Belt,,0,Sun Belt,11,G5
+1,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+2,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+3,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+4,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+5,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+6,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+7,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+8,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,Hawaii,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,Houston,0.00242,AAC,West,0,AACWest,11,G5
+2,Houston,0.00174,AAC,West,0,AACWest,11,G5
+3,Houston,0,AAC,West,0,AACWest,11,G5
+4,Houston,0.01,AAC,West,0,AACWest,11,G5
+5,Houston,0,AAC,West,0,AACWest,11,G5
+6,Houston,0,AAC,West,0,AACWest,11,G5
+7,Houston,0,AAC,West,0,AACWest,11,G5
+8,Houston,0,AAC,West,0,AACWest,11,G5
+9,Houston,0,AAC,West,0,AACWest,11,G5
+10,Houston,0,AAC,West,0,AACWest,11,G5
+1,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+2,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+3,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+4,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+5,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+6,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+7,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+8,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+9,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+10,Idaho,0,Sun Belt,,0,Sun Belt,11,G5
+1,Kent State,0,MAC,East,0,MACEast,11,G5
+2,Kent State,0,MAC,East,0,MACEast,11,G5
+3,Kent State,0,MAC,East,0,MACEast,11,G5
+4,Kent State,0,MAC,East,0,MACEast,11,G5
+5,Kent State,0,MAC,East,0,MACEast,11,G5
+6,Kent State,0,MAC,East,0,MACEast,11,G5
+7,Kent State,0,MAC,East,0,MACEast,11,G5
+8,Kent State,0,MAC,East,0,MACEast,11,G5
+9,Kent State,0,MAC,East,0,MACEast,11,G5
+10,Kent State,0,MAC,East,0,MACEast,11,G5
+1,Louisiana Tech,0.00036,CUSA,West,0,CUSAWest,11,G5
+2,Louisiana Tech,6.00E-05,CUSA,West,0,CUSAWest,11,G5
+3,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+4,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+5,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+6,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+7,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+8,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+9,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+10,Louisiana Tech,0,CUSA,West,0,CUSAWest,11,G5
+1,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+2,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+3,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+4,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+5,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+6,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+7,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+8,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+9,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+10,Louisiana-Lafayette,0,Sun Belt,,0,Sun Belt,11,G5
+1,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+2,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+3,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+4,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+5,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+6,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+7,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+8,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+9,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+10,Louisiana-Monroe,0,Sun Belt,,0,Sun Belt,11,G5
+1,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+2,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+3,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+4,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+5,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+6,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+7,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+8,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+9,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+10,Marshall,0,CUSA,East,0,CUSAEast,11,G5
+1,Memphis,0.00672,AAC,West,0,AACWest,11,G5
+2,Memphis,0.00284,AAC,West,0,AACWest,11,G5
+3,Memphis,0,AAC,West,0,AACWest,11,G5
+4,Memphis,0,AAC,West,0,AACWest,11,G5
+5,Memphis,0.00367,AAC,West,0,AACWest,11,G5
+6,Memphis,0,AAC,West,0,AACWest,11,G5
+7,Memphis,0,AAC,West,0,AACWest,11,G5
+8,Memphis,0,AAC,West,0,AACWest,11,G5
+9,Memphis,0,AAC,West,0,AACWest,11,G5
+10,Memphis,0,AAC,West,0,AACWest,11,G5
+1,Miami (OH),0.00012,MAC,East,0,MACEast,11,G5
+2,Miami (OH),0,MAC,East,0,MACEast,11,G5
+3,Miami (OH),0,MAC,East,0,MACEast,11,G5
+4,Miami (OH),0,MAC,East,0,MACEast,11,G5
+5,Miami (OH),0,MAC,East,0,MACEast,11,G5
+6,Miami (OH),0,MAC,East,0,MACEast,11,G5
+7,Miami (OH),0,MAC,East,0,MACEast,11,G5
+8,Miami (OH),0,MAC,East,0,MACEast,11,G5
+9,Miami (OH),0,MAC,East,0,MACEast,11,G5
+10,Miami (OH),0,MAC,East,0,MACEast,11,G5
+1,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+2,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+3,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+4,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+5,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+6,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+7,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+8,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+9,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+10,Middle Tennessee,0,CUSA,East,0,CUSAEast,11,G5
+1,Navy,4.00E-05,AAC,West,0,AACWest,11,G5
+2,Navy,0.0009,AAC,West,0,AACWest,11,G5
+3,Navy,0,AAC,West,0,AACWest,11,G5
+4,Navy,0,AAC,West,0,AACWest,11,G5
+5,Navy,0.00014,AAC,West,0,AACWest,11,G5
+6,Navy,0.00045,AAC,West,0,AACWest,11,G5
+7,Navy,0.00015,AAC,West,0,AACWest,11,G5
+8,Navy,0,AAC,West,0,AACWest,11,G5
+9,Navy,0,AAC,West,0,AACWest,11,G5
+10,Navy,0,AAC,West,0,AACWest,11,G5
+1,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+2,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+3,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+4,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+5,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+6,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+7,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+8,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,Nevada,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,New Mexico,4.00E-05,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,New Mexico,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+1,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+2,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+3,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+4,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+5,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+6,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+7,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+8,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+9,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+10,New Mexico State,0,Sun Belt,,0,Sun Belt,11,G5
+1,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+2,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+3,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+4,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+5,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+6,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+7,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+8,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+9,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+10,North Texas,0,CUSA,West,0,CUSAWest,11,G5
+1,Northern Illinois,0.00048,MAC,West,0,MACWest,11,G5
+2,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+3,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+4,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+5,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+6,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+7,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+8,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+9,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+10,Northern Illinois,0,MAC,West,0,MACWest,11,G5
+1,Ohio,0.00026,MAC,East,0,MACEast,11,G5
+2,Ohio,1.00E-04,MAC,East,0,MACEast,11,G5
+3,Ohio,0,MAC,East,0,MACEast,11,G5
+4,Ohio,0,MAC,East,0,MACEast,11,G5
+5,Ohio,0,MAC,East,0,MACEast,11,G5
+6,Ohio,0,MAC,East,0,MACEast,11,G5
+7,Ohio,0,MAC,East,0,MACEast,11,G5
+8,Ohio,0,MAC,East,0,MACEast,11,G5
+9,Ohio,0,MAC,East,0,MACEast,11,G5
+10,Ohio,0,MAC,East,0,MACEast,11,G5
+1,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+2,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+3,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+4,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+5,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+6,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+7,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+8,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+9,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+10,Old Dominion,0,CUSA,East,0,CUSAEast,11,G5
+1,Rice,0,CUSA,West,0,CUSAWest,11,G5
+2,Rice,0,CUSA,West,0,CUSAWest,11,G5
+3,Rice,0,CUSA,West,0,CUSAWest,11,G5
+4,Rice,0,CUSA,West,0,CUSAWest,11,G5
+5,Rice,0,CUSA,West,0,CUSAWest,11,G5
+6,Rice,0,CUSA,West,0,CUSAWest,11,G5
+7,Rice,0,CUSA,West,0,CUSAWest,11,G5
+8,Rice,0,CUSA,West,0,CUSAWest,11,G5
+9,Rice,0,CUSA,West,0,CUSAWest,11,G5
+10,Rice,0,CUSA,West,0,CUSAWest,11,G5
+1,San Diego State,0.0089,Mountain West,West,0,Mountain WestWest,11,G5
+2,San Diego State,0.00764,Mountain West,West,0,Mountain WestWest,11,G5
+3,San Diego State,0.01,Mountain West,West,0,Mountain WestWest,11,G5
+4,San Diego State,0.01,Mountain West,West,0,Mountain WestWest,11,G5
+5,San Diego State,0.01245,Mountain West,West,0,Mountain WestWest,11,G5
+6,San Diego State,0.0082,Mountain West,West,0,Mountain WestWest,11,G5
+7,San Diego State,0.025869999,Mountain West,West,0,Mountain WestWest,11,G5
+8,San Diego State,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,San Diego State,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,San Diego State,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,San Jose State,2.00E-05,Mountain West,West,0,Mountain WestWest,11,G5
+2,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+3,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+4,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+5,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+6,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+7,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+8,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,San Jose State,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+2,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+3,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+4,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+5,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+6,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+7,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+8,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+9,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+10,South Alabama,0,Sun Belt,,0,Sun Belt,11,G5
+1,South Florida,0.01664,AAC,East,0,AACEast,11,G5
+2,South Florida,0.01826,AAC,East,0,AACEast,11,G5
+3,South Florida,0.01,AAC,East,0,AACEast,11,G5
+4,South Florida,0.02,AAC,East,0,AACEast,11,G5
+5,South Florida,0.017890001,AAC,East,0,AACEast,11,G5
+6,South Florida,0.021609999,AAC,East,0,AACEast,11,G5
+7,South Florida,0.02005,AAC,East,0,AACEast,11,G5
+8,South Florida,0.035999998,AAC,East,0,AACEast,11,G5
+9,South Florida,0.033939999,AAC,East,0,AACEast,11,G5
+10,South Florida,0,AAC,East,0,AACEast,11,G5
+1,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+2,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+3,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+4,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+5,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+6,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+7,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+8,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+9,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+10,Southern Methodist,0,AAC,West,0,AACWest,11,G5
+1,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+2,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+3,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+4,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+5,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+6,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+7,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+8,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+9,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+10,Southern Miss,0,CUSA,West,0,CUSAWest,11,G5
+1,Temple,0.00024,AAC,East,0,AACEast,11,G5
+2,Temple,0,AAC,East,0,AACEast,11,G5
+3,Temple,0,AAC,East,0,AACEast,11,G5
+4,Temple,0,AAC,East,0,AACEast,11,G5
+5,Temple,0,AAC,East,0,AACEast,11,G5
+6,Temple,0,AAC,East,0,AACEast,11,G5
+7,Temple,0,AAC,East,0,AACEast,11,G5
+8,Temple,0,AAC,East,0,AACEast,11,G5
+9,Temple,0,AAC,East,0,AACEast,11,G5
+10,Temple,0,AAC,East,0,AACEast,11,G5
+1,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+2,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+3,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+4,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+5,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+6,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+7,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+8,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+9,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+10,Texas State,0,Sun Belt,,0,Sun Belt,11,G5
+1,Toledo,0.00182,MAC,West,0,MACWest,11,G5
+2,Toledo,0.00216,MAC,West,0,MACWest,11,G5
+3,Toledo,0,MAC,West,0,MACWest,11,G5
+4,Toledo,0,MAC,West,0,MACWest,11,G5
+5,Toledo,0,MAC,West,0,MACWest,11,G5
+6,Toledo,0,MAC,West,0,MACWest,11,G5
+7,Toledo,0,MAC,West,0,MACWest,11,G5
+8,Toledo,0,MAC,West,0,MACWest,11,G5
+9,Toledo,0,MAC,West,0,MACWest,11,G5
+10,Toledo,0,MAC,West,0,MACWest,11,G5
+1,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+2,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+3,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+4,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+5,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+6,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+7,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+8,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+9,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+10,Troy,0,Sun Belt,,0,Sun Belt,11,G5
+1,Tulane,6.00E-05,AAC,West,0,AACWest,11,G5
+2,Tulane,0,AAC,West,0,AACWest,11,G5
+3,Tulane,0,AAC,West,0,AACWest,11,G5
+4,Tulane,0,AAC,West,0,AACWest,11,G5
+5,Tulane,0,AAC,West,0,AACWest,11,G5
+6,Tulane,0,AAC,West,0,AACWest,11,G5
+7,Tulane,0,AAC,West,0,AACWest,11,G5
+8,Tulane,0,AAC,West,0,AACWest,11,G5
+9,Tulane,0,AAC,West,0,AACWest,11,G5
+10,Tulane,0,AAC,West,0,AACWest,11,G5
+1,Tulsa,0.0012,AAC,West,0,AACWest,11,G5
+2,Tulsa,0,AAC,West,0,AACWest,11,G5
+3,Tulsa,0,AAC,West,0,AACWest,11,G5
+4,Tulsa,0,AAC,West,0,AACWest,11,G5
+5,Tulsa,0,AAC,West,0,AACWest,11,G5
+6,Tulsa,0,AAC,West,0,AACWest,11,G5
+7,Tulsa,0,AAC,West,0,AACWest,11,G5
+8,Tulsa,0,AAC,West,0,AACWest,11,G5
+9,Tulsa,0,AAC,West,0,AACWest,11,G5
+10,Tulsa,0,AAC,West,0,AACWest,11,G5
+1,UAB,0,CUSA,West,0,CUSAWest,11,G5
+2,UAB,0,CUSA,,0,CUSA,11,G5
+1,UCF,0.0015,AAC,East,0,AACEast,11,G5
+2,UCF,0.00286,AAC,East,0,AACEast,11,G5
+3,UCF,0,AAC,East,0,AACEast,11,G5
+4,UCF,0,AAC,East,0,AACEast,11,G5
+5,UCF,0.01663,AAC,East,0,AACEast,11,G5
+6,UCF,0.01785,AAC,East,0,AACEast,11,G5
+7,UCF,0.041730002,AAC,East,0,AACEast,11,G5
+8,UCF,0,AAC,East,0,AACEast,11,G5
+9,UCF,0.08715,AAC,East,0,AACEast,11,G5
+10,UCF,0.066670001,AAC,East,0,AACEast,11,G5
+1,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+2,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+3,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+4,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+5,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+6,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+7,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+8,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+9,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+10,UNLV,0,Mountain West,West,0,Mountain WestWest,11,G5
+1,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,Utah State,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+1,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+2,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+3,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+4,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+5,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+6,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+7,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+8,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+9,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+10,UTEP,0,CUSA,West,0,CUSAWest,11,G5
+1,UTSA,0.0002,CUSA,West,0,CUSAWest,11,G5
+2,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+3,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+4,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+5,UTSA,0.00033,CUSA,West,0,CUSAWest,11,G5
+6,UTSA,0.0006,CUSA,West,0,CUSAWest,11,G5
+7,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+8,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+9,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+10,UTSA,0,CUSA,West,0,CUSAWest,11,G5
+1,Western Kentucky,0.00692,CUSA,East,0,CUSAEast,11,G5
+2,Western Kentucky,0.00716,CUSA,East,0,CUSAEast,11,G5
+3,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+4,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+5,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+6,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+7,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+8,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+9,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+10,Western Kentucky,0,CUSA,East,0,CUSAEast,11,G5
+1,Western Michigan,0.0038,MAC,West,0,MACWest,11,G5
+2,Western Michigan,0,MAC,West,0,MACWest,11,G5
+3,Western Michigan,0,MAC,West,0,MACWest,11,G5
+4,Western Michigan,0,MAC,West,0,MACWest,11,G5
+5,Western Michigan,0,MAC,West,0,MACWest,11,G5
+6,Western Michigan,0,MAC,West,0,MACWest,11,G5
+7,Western Michigan,0,MAC,West,0,MACWest,11,G5
+8,Western Michigan,0,MAC,West,0,MACWest,11,G5
+9,Western Michigan,0,MAC,West,0,MACWest,11,G5
+10,Western Michigan,0,MAC,West,0,MACWest,11,G5
+1,Wyoming,1.00E-04,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+2,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+3,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+4,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+5,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+6,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+7,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+8,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+9,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
+10,Wyoming,0,Mountain West,Mountain,0,Mountain WestMountain,11,G5
